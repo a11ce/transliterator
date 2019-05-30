@@ -31,3 +31,5 @@ y: oo
 э: eh
 ю: yoo
 я: yah
+oooo: oo
+eeee: ee
